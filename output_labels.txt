@@ -1,5 +1,0 @@
-csme
-mild npdr
-moderate npdr
-pdr
-severe npdr
